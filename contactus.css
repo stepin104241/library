@@ -1,0 +1,12 @@
+body{
+    background-image: url("/images/img4.jpg");
+			background-size: cover;
+			background-repeat: no-repeat;
+            background-attachment: fixed;
+            font-size: large;
+            color: yellow;
+
+}
+h1{
+    font-size: xx-large;
+}
